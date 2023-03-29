@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="App">
       <h1 style={{ textAlign: "center", fontWeight: "bold" }}>
-        Aerial PhotoGraphy Bookings Portal
+       Drone Booking Portal
       </h1>
       <BrowserRouter>
         <Routes>
